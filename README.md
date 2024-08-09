@@ -27,7 +27,7 @@ This Windows application allows you to control your Logitech Z407 speakers direc
 ## Usage
 
 1. **Connect to Your Speakers:**
-   - Open the application and click the "Connect" button to pair with your Logitech Z407 speakers.
+   - Open the application and click the "Connect" button to pair with your Logitech Z407 speakers. Wait for a few seconds.
 
 2. **Control Your Speakers:**
    - Use the provided buttons in the application to control volume, play/pause audio, switch inputs, or perform other actions.
@@ -35,6 +35,7 @@ This Windows application allows you to control your Logitech Z407 speakers direc
 ## Important Notes
 
 - **Single Connection Limitation:** The Logitech Z407 speakers only allow one connection at a time. If you are using this application, you will need to disconnect the original remote by removing its batteries.
+- **Your Computer needs Bluetooth** If your PC has no inbuilt Bluetooth, consider buying a cheap Bluetooth dongle. It works perfectly fine.
 
 ## Support & Donations
 
