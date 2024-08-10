@@ -11,6 +11,9 @@ This Windows application allows you to control your Logitech Z407 speakers direc
 - **Input Switching:** Switch between Bluetooth, Aux, and USB inputs.
 - **Bluetooth Pairing:** Pair new Bluetooth devices with your speakers.
 
+- ![image](https://github.com/user-attachments/assets/b4698d6a-bc50-4fd5-86cd-9cfba55f69e4)
+
+
 ## Installation Instructions
 
 1. **Download the Application:**
