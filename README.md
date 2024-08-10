@@ -3,6 +3,8 @@
 ## Overview
 
 This Windows application allows you to control your Logitech Z407 speakers directly from your PC. If you’ve lost your remote, it’s not functioning, or you prefer to use your computer to manage your speakers, this app is a perfect solution.
+- ![image](https://github.com/user-attachments/assets/b4698d6a-bc50-4fd5-86cd-9cfba55f69e4)
+
 
 ## Features
 
@@ -10,8 +12,6 @@ This Windows application allows you to control your Logitech Z407 speakers direc
 - **Play/Pause Control:** Easily play or pause your audio.
 - **Input Switching:** Switch between Bluetooth, Aux, and USB inputs.
 - **Bluetooth Pairing:** Pair new Bluetooth devices with your speakers.
-
-- ![image](https://github.com/user-attachments/assets/b4698d6a-bc50-4fd5-86cd-9cfba55f69e4)
 
 
 ## Installation Instructions
