@@ -40,9 +40,4 @@ This Windows application allows you to control your Logitech Z407 speakers direc
 - **Single Connection Limitation:** The Logitech Z407 speakers only allow one connection at a time. If you are using this application, you will need to disconnect the original remote by removing its batteries.
 - **Your Computer needs Bluetooth** If your PC has no inbuilt Bluetooth, consider buying a cheap Bluetooth dongle. It works perfectly fine.
 
-## Support & Donations
 
-If you find this app useful and would like to support its development, consider making a donation via this link: https://www.paypal.com/pools/c/96X2VPIcnZ
-
-
-Thank you for using the Logitech Z407 Remote Control App!
